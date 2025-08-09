@@ -1,0 +1,2 @@
+2025-08-09 08:40:19,235 - DEBUG - __init__.py:690 - Running job Job(interval=1, unit=minutes, do=print_status, args=(), kwargs={})
+2025-08-09 08:40:19,235 - INFO - main.py:123 - 服务运行正常 | 待处理文件数: 1
