@@ -25,6 +25,7 @@ SPDX-License-Identifier: MIT
 - ✅ 功能 2：利用本地 AI 二次审查 OCR 模型的扫描结果
 - ✅ 功能 3：为后续自动化系统生成合适格式的 Excel 文件
 - ✅ 功能 4：定期生成 logs 文件
+- ✅ 功能 5：定期删除较早的 logs 文件
 
 ---
 
@@ -58,6 +59,10 @@ SPDX-License-Identifier: MIT
    ```
 
 3. 本地启动
+   ```bash
+   python main.py
+   ```
+   或
    修改 start_ocr_workflow.bat 文件中的文件夹路径
    双击 start_ocr_workflow.bat 文件启动
 ---
@@ -73,4 +78,4 @@ SPDX-License-Identifier: MIT
 ---
 
 ## 📄 许可证
-   - [MIT](./LICENSE) © 2025 Yijiu Zhao
+   - [MIT](./LICENSE) © 2025 Yijiu2333
